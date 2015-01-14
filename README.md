@@ -15,5 +15,5 @@ To run the script, unzip this repo into a new directory and make that new direct
 
 Then, run the script command below providing your salesforce username and password.
 
-./volumenTest.sh username password volumeTest.txt cleanup.txt 
+```./volumeTest.sh username password volumeTest.txt cleanup.txt```
 
