@@ -1,5 +1,8 @@
 Example using Force CLI
 
+This sample uses the script files from the Financial Force Deployment Tools repo
+https://github.com/financialforcedev/df12-deployment-tools
+
 This is a sample bash script to import data, remove test data, and deploy metadata.
 
 ``` 
